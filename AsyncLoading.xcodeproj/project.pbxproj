@@ -14,13 +14,18 @@
 		695DA36717F9A73B00B14098 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 695DA36617F9A73B00B14098 /* main.m */; };
 		695DA36B17F9A73B00B14098 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 695DA36A17F9A73B00B14098 /* AppDelegate.m */; };
 		695DA36E17F9A73B00B14098 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 695DA36C17F9A73B00B14098 /* Main.storyboard */; };
-		695DA37117F9A73B00B14098 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 695DA37017F9A73B00B14098 /* ViewController.m */; };
 		695DA37317F9A73B00B14098 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 695DA37217F9A73B00B14098 /* Images.xcassets */; };
 		695DA37A17F9A73B00B14098 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 695DA37917F9A73B00B14098 /* XCTest.framework */; };
 		695DA37B17F9A73B00B14098 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 695DA35A17F9A73B00B14098 /* Foundation.framework */; };
 		695DA37C17F9A73B00B14098 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 695DA35E17F9A73B00B14098 /* UIKit.framework */; };
 		695DA38417F9A73B00B14098 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 695DA38217F9A73B00B14098 /* InfoPlist.strings */; };
 		695DA38617F9A73B00B14098 /* AsyncLoadingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 695DA38517F9A73B00B14098 /* AsyncLoadingTests.m */; };
+		695DA39517F9AC2400B14098 /* RootTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 695DA39417F9AC2400B14098 /* RootTableViewController.m */; };
+		695DA39817F9B1C900B14098 /* UncacheAsyncTableController.m in Sources */ = {isa = PBXBuildFile; fileRef = 695DA39717F9B1C900B14098 /* UncacheAsyncTableController.m */; };
+		695DA39B17F9B1DA00B14098 /* CacheAsyncTableController.m in Sources */ = {isa = PBXBuildFile; fileRef = 695DA39A17F9B1DA00B14098 /* CacheAsyncTableController.m */; };
+		695DA39E17F9B22300B14098 /* AsyncImageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 695DA39D17F9B22300B14098 /* AsyncImageViewController.m */; };
+		695DA3A317F9B59600B14098 /* Downloader.m in Sources */ = {isa = PBXBuildFile; fileRef = 695DA3A217F9B59600B14098 /* Downloader.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		695DA3AA17F9BA4800B14098 /* AsyncImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 695DA3A917F9BA4800B14098 /* AsyncImageView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,14 +50,24 @@
 		695DA36917F9A73B00B14098 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		695DA36A17F9A73B00B14098 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		695DA36D17F9A73B00B14098 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		695DA36F17F9A73B00B14098 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		695DA37017F9A73B00B14098 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		695DA37217F9A73B00B14098 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		695DA37817F9A73B00B14098 /* AsyncLoadingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AsyncLoadingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		695DA37917F9A73B00B14098 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		695DA38117F9A73B00B14098 /* AsyncLoadingTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AsyncLoadingTests-Info.plist"; sourceTree = "<group>"; };
 		695DA38317F9A73B00B14098 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		695DA38517F9A73B00B14098 /* AsyncLoadingTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AsyncLoadingTests.m; sourceTree = "<group>"; };
+		695DA39317F9AC2400B14098 /* RootTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootTableViewController.h; sourceTree = "<group>"; };
+		695DA39417F9AC2400B14098 /* RootTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootTableViewController.m; sourceTree = "<group>"; };
+		695DA39617F9B1C900B14098 /* UncacheAsyncTableController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UncacheAsyncTableController.h; sourceTree = "<group>"; };
+		695DA39717F9B1C900B14098 /* UncacheAsyncTableController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UncacheAsyncTableController.m; sourceTree = "<group>"; };
+		695DA39917F9B1DA00B14098 /* CacheAsyncTableController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CacheAsyncTableController.h; sourceTree = "<group>"; };
+		695DA39A17F9B1DA00B14098 /* CacheAsyncTableController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CacheAsyncTableController.m; sourceTree = "<group>"; };
+		695DA39C17F9B22300B14098 /* AsyncImageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AsyncImageViewController.h; sourceTree = "<group>"; };
+		695DA39D17F9B22300B14098 /* AsyncImageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AsyncImageViewController.m; sourceTree = "<group>"; };
+		695DA3A117F9B59600B14098 /* Downloader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Downloader.h; sourceTree = "<group>"; };
+		695DA3A217F9B59600B14098 /* Downloader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Downloader.m; sourceTree = "<group>"; };
+		695DA3A817F9BA4800B14098 /* AsyncImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AsyncImageView.h; path = AsyncLoading/controller/AsyncImageView.h; sourceTree = SOURCE_ROOT; };
+		695DA3A917F9BA4800B14098 /* AsyncImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AsyncImageView.m; path = AsyncLoading/controller/AsyncImageView.m; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,11 +127,11 @@
 		695DA36017F9A73B00B14098 /* AsyncLoading */ = {
 			isa = PBXGroup;
 			children = (
+				695DA39F17F9B57900B14098 /* library */,
+				695DA38F17F9A77B00B14098 /* controller */,
 				695DA36917F9A73B00B14098 /* AppDelegate.h */,
 				695DA36A17F9A73B00B14098 /* AppDelegate.m */,
 				695DA36C17F9A73B00B14098 /* Main.storyboard */,
-				695DA36F17F9A73B00B14098 /* ViewController.h */,
-				695DA37017F9A73B00B14098 /* ViewController.m */,
 				695DA37217F9A73B00B14098 /* Images.xcassets */,
 				695DA36117F9A73B00B14098 /* Supporting Files */,
 			);
@@ -150,6 +165,48 @@
 				695DA38217F9A73B00B14098 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		695DA38F17F9A77B00B14098 /* controller */ = {
+			isa = PBXGroup;
+			children = (
+				695DA39317F9AC2400B14098 /* RootTableViewController.h */,
+				695DA39417F9AC2400B14098 /* RootTableViewController.m */,
+				695DA39617F9B1C900B14098 /* UncacheAsyncTableController.h */,
+				695DA39717F9B1C900B14098 /* UncacheAsyncTableController.m */,
+				695DA39917F9B1DA00B14098 /* CacheAsyncTableController.h */,
+				695DA39A17F9B1DA00B14098 /* CacheAsyncTableController.m */,
+				695DA39C17F9B22300B14098 /* AsyncImageViewController.h */,
+				695DA39D17F9B22300B14098 /* AsyncImageViewController.m */,
+			);
+			path = controller;
+			sourceTree = "<group>";
+		};
+		695DA39F17F9B57900B14098 /* library */ = {
+			isa = PBXGroup;
+			children = (
+				695DA3A417F9BA0000B14098 /* UIAsyncImageView */,
+				695DA3A017F9B59600B14098 /* Donwloader */,
+			);
+			path = library;
+			sourceTree = "<group>";
+		};
+		695DA3A017F9B59600B14098 /* Donwloader */ = {
+			isa = PBXGroup;
+			children = (
+				695DA3A117F9B59600B14098 /* Downloader.h */,
+				695DA3A217F9B59600B14098 /* Downloader.m */,
+			);
+			path = Donwloader;
+			sourceTree = "<group>";
+		};
+		695DA3A417F9BA0000B14098 /* UIAsyncImageView */ = {
+			isa = PBXGroup;
+			children = (
+				695DA3A817F9BA4800B14098 /* AsyncImageView.h */,
+				695DA3A917F9BA4800B14098 /* AsyncImageView.m */,
+			);
+			path = UIAsyncImageView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -249,9 +306,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				695DA37117F9A73B00B14098 /* ViewController.m in Sources */,
+				695DA39E17F9B22300B14098 /* AsyncImageViewController.m in Sources */,
+				695DA39B17F9B1DA00B14098 /* CacheAsyncTableController.m in Sources */,
 				695DA36B17F9A73B00B14098 /* AppDelegate.m in Sources */,
+				695DA3A317F9B59600B14098 /* Downloader.m in Sources */,
 				695DA36717F9A73B00B14098 /* main.m in Sources */,
+				695DA39517F9AC2400B14098 /* RootTableViewController.m in Sources */,
+				695DA39817F9B1C900B14098 /* UncacheAsyncTableController.m in Sources */,
+				695DA3AA17F9BA4800B14098 /* AsyncImageView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -460,6 +522,7 @@
 				695DA38B17F9A73B00B14098 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		695DA38C17F9A73B00B14098 /* Build configuration list for PBXNativeTarget "AsyncLoadingTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +531,7 @@
 				695DA38E17F9A73B00B14098 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

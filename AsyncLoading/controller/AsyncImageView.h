@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  AsyncImageView.h
 //  AsyncLoading
 //
 //  Created by 大竹 雅登 on 2013/09/30.
@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface AsyncImageView : UIImageView
+
+- (void)loadImage:(NSString *)url;
 
 @end
