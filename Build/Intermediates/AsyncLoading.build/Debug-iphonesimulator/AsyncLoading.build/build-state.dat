@@ -1,0 +1,896 @@
+TAsyncLoading
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-cogivwkmotaomhcfammsqrwfzpzz/AsyncLoading-Prefix.pch.pch AsyncLoading/AsyncLoading-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-eobunclthmsdqedwmfpsanlxkkyr/AsyncLoading-Prefix.pch.pch AsyncLoading/AsyncLoading-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/CacheAsyncTableController.o /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/CacheAsyncTableController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/main.o /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AppDelegate.o /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/Downloader.o /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/library/Donwloader/Downloader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AsyncImageViewController.o /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/AsyncImageViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/RootTableViewController.o /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/RootTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/UncacheAsyncTableController.o /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/UncacheAsyncTableController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AsyncImageView.o /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/AsyncImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/AsyncLoading normal i386
+cGenerateDSYMFile /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app.dSYM /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/AsyncLoading
+cCompileStoryboard /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/Base.lproj/Main.storyboard
+cCopyStringsFile /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/en.lproj/InfoPlist.strings AsyncLoading/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/Images.xcassets
+cProcessInfoPlistFile /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/Info.plist /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/AsyncLoading-Info.plist
+cTouch /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000521BCCE50000000000000176
+t1377553637
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052418C7B00000000000003B5
+t1380027515
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052418C85000000000000019E
+t1380027525
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000052418C870000000000583810
+t1380027527
+s5781520
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000052418C8700000000005B82A0
+t1380027527
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052418C880000000000445830
+t1380027528
+s4479024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c0000000052418C880000000000355270
+t1380027528
+s3494512
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000052418C8900000000002F4800
+t1380027529
+s3098624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000052418C88000000000004B000
+t1380027528
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052418C89000000000088B570
+t1380027529
+s8959344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000052418C8B0000000000037620
+t1380027531
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000052418C8C0000000000484860
+t1380027532
+s4737120
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000052418C8C0000000000127E10
+t1380027532
+s1211920
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052418C8E0000000001DB1C90
+t1380027534
+s31136912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000052418C9900000000002B9E80
+t1380027545
+s2858624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c0000000052418C9E0000000000002338
+t1380027550
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c0000000052418C9F000000000008D300
+t1380027551
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c0000000052418C9F000000000038ACB0
+t1380027551
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c000000005241754400000000000121D0
+t1380021572
+s74192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c0000000052418C9F0000000000013500
+t1380027551
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c0000000052418C9F0000000000033BA0
+t1380027551
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000052418C9F000000000001CFB0
+t1380027551
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000052418C9F000000000001B2B0
+t1380027551
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c0000000052418C9F00000000000632B0
+t1380027551
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c0000000052418C9F0000000000008880
+t1380027551
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c0000000052418C9F0000000000015080
+t1380027551
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c0000000052418C9F00000000000230E0
+t1380027551
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000052418C9F000000000000E380
+t1380027551
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c0000000052418C9F0000000000087200
+t1380027551
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c0000000052418C9F00000000000171A0
+t1380027551
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c0000000052418C9F0000000000039C10
+t1380027551
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000052418C9F000000000000B0B0
+t1380027551
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c0000000052418C9F0000000000167FE0
+t1380027551
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c0000000052418C9F00000000000106A0
+t1380027551
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000052418C9F000000000001CE40
+t1380027551
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c0000000052418C9F0000000000071040
+t1380027551
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000052418C9F0000000000067A10
+t1380027551
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000052418C9F000000000001BAD0
+t1380027551
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c0000000052418C9F0000000000088BA0
+t1380027551
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c0000000052418CAA0000000000000AC9
+t1380027562
+s2761
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c0000000052418CAA0000000000005004
+t1380027562
+s20484
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/AppDelegate.h
+c0000000052496FBB000000000000011D
+t1380544443
+s285
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/AppDelegate.m
+c0000000052496FBB00000000000007DF
+t1380544443
+s2015
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/AsyncLoading-Info.plist
+c000000005249784300000000000004EB
+t1380546627
+s1259
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/AsyncLoading-Prefix.pch
+c0000000052496FBB0000000000000158
+t1380544443
+s344
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/Base.lproj/Main.storyboard
+c0000000052498AF30000000000002CBB
+t1380551411
+s11451
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/Images.xcassets
+c0000000052496FBB0000000000000088
+t1380544443
+s136
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/AsyncImageView.h
+c0000000052498A2900000000000000FE
+t1380551209
+s254
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/AsyncImageView.m
+c0000000052498C990000000000000779
+t1380551833
+s1913
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/AsyncImageViewController.h
+c0000000052498D5200000000000001DC
+t1380552018
+s476
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/AsyncImageViewController.m
+c0000000052498C490000000000000627
+t1380551753
+s1575
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/CacheAsyncTableController.h
+c000000005249959A00000000000001E3
+t1380554138
+s483
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/CacheAsyncTableController.m
+c000000005249959A0000000000001135
+t1380554138
+s4405
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/RootTableViewController.h
+c00000000524974A400000000000000F6
+t1380545700
+s246
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/RootTableViewController.m
+c00000000524981440000000000000A61
+t1380548932
+s2657
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/RootViewController.h
+c000000005249700F00000000000000E7
+t1380544527
+s231
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/RootViewController.m
+c00000000524972B30000000000000CAC
+t1380545203
+s3244
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/UncacheAsyncTableController.h
+c000000005249959A00000000000001CE
+t1380554138
+s462
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/UncacheAsyncTableController.m
+c0000000052498132000000000000082C
+t1380548914
+s2092
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/en.lproj/InfoPlist.strings
+c0000000052496FBB000000000000002D
+t1380544443
+s45
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/library/Donwloader/Downloader.h
+c0000000051D1577B0000000000000281
+t1372673915
+s641
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/library/Donwloader/Downloader.m
+c0000000051D1578100000000000005D7
+t1372673921
+s1495
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/main.m
+c0000000052496FBB0000000000000159
+t1380544443
+s345
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AppDelegate.o
+t1380554140
+s65320
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AsyncImageView.o
+t1380554139
+s53092
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AsyncImageViewController.o
+t1380554139
+s47088
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AsyncLoading.LinkFileList
+c000000005249959A00000000000005DA
+t1380554138
+s1498
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/CacheAsyncTableController.o
+t1380554140
+s64916
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/Downloader.o
+t1380554140
+s14716
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/RootTableViewController.o
+t1380554140
+s57056
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/RootViewController.o
+c000000005249738C000000000000F9D4
+t1380545420
+s63956
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/UncacheAsyncTableController.o
+t1380554140
+s56516
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/main.o
+t1380554140
+s3744
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/assetcatalog_dependencies.txt
+t1380554145
+s478
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/assetcatalog_generated_info.plist
+t1380554145
+s525
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-cogivwkmotaomhcfammsqrwfzpzz/AsyncLoading-Prefix.pch.pch
+t1380554139
+s116284
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-eobunclthmsdqedwmfpsanlxkkyr/AsyncLoading-Prefix.pch.pch
+t1380554139
+s115884
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app
+t1380554145
+s306
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app.dSYM
+t2
+s0
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/AsyncLoading
+t1380554140
+s53856
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/Base.lproj/Main.storyboardc
+t1380554145
+s374
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/Info.plist
+t1380554145
+s1049
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/PkgInfo
+t1380554145
+s8
+
+N/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/en.lproj/InfoPlist.strings
+t1380554140
+s42
+
+N/usr/lib/libSystem.B.dylib
+c000000005241752B000000000000D2A0
+t1380021547
+s53920
+
+N/usr/lib/system/libcache.dylib
+c00000000524175430000000000013870
+t1380021571
+s79984
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005241751C0000000000030250
+t1380021532
+s197200
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005241752B0000000000017910
+t1380021547
+s96528
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000052417540000000000001A130
+t1380021568
+s106800
+
+N/usr/lib/system/libdnsinfo.dylib
+c0000000052417540000000000000C2A0
+t1380021568
+s49824
+
+N/usr/lib/system/libdyld.dylib
+c000000005241754400000000000121D0
+t1380021572
+s74192
+
+N/usr/lib/system/libkeymgr.dylib
+c00000000524175430000000000008CE0
+t1380021571
+s36064
+
+N/usr/lib/system/liblaunch.dylib
+c0000000052417543000000000001D350
+t1380021571
+s119632
+
+N/usr/lib/system/libmacho.dylib
+c00000000524175400000000000014F90
+t1380021568
+s85904
+
+N/usr/lib/system/libquarantine.dylib
+c0000000052417547000000000000D790
+t1380021575
+s55184
+
+N/usr/lib/system/libremovefile.dylib
+c0000000052417547000000000000C330
+t1380021575
+s49968
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000052417543000000000000A080
+t1380021571
+s41088
+
+N/usr/lib/system/libsystem_c.dylib
+c000000005241752B00000000001F91C0
+t1380021547
+s2068928
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000052417545000000000001BC00
+t1380021573
+s113664
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005241752B000000000008B580
+t1380021547
+s570752
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005241752B00000000000569B0
+t1380021547
+s354736
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005241752B0000000000070540
+t1380021547
+s460096
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005241752B0000000000025620
+t1380021547
+s153120
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000052417534000000000000C780
+t1380021556
+s51072
+
+N/usr/lib/system/libunc.dylib
+c000000005241753B000000000000D430
+t1380021563
+s54320
+
+N/usr/lib/system/libunwind.dylib
+c0000000052417544000000000001BAA0
+t1380021572
+s113312
+
+CBuild AST from /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/AppDelegate.m
+r0
+
+CBuild AST from /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/AsyncImageView.m
+r0
+
+CBuild AST from /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/AsyncImageViewController.m
+r0
+
+CBuild AST from /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/CacheAsyncTableController.m
+r0
+
+CBuild AST from /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/RootTableViewController.m
+r0
+
+CBuild AST from /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/RootViewController.m
+r0
+
+CBuild AST from /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/UncacheAsyncTableController.m
+r0
+
+CBuild AST from /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/library/Donwloader/Downloader.m
+r0
+
+CBuild AST from /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/library/UIAsyncImageView/UIAsyncImageView.m
+r0
+
+CBuild AST from /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies3656661acdf9b741^ddb1741acdf9b741^---0#1#1#--18"Check dependencies36"9552822B-4546-413C-A5B6-CA8563327220-
+
+CCompileAssetCatalog /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/Images.xcassets
+s402246940.680538
+e402246945.229561
+r1
+xCompileAssetCatalog
+x/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app
+x/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/LaunchImage-700-568h@2x.png
+o/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/Assets.car
+o/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CompileAssetCatalog Build/Products/Debug-iphonesimulator/AsyncLoading.app AsyncLoading/Images.xcassets102"CompileAssetCatalog Build/Products/Debug-iphonesimulator/AsyncLoading.app AsyncLoading/Images.xcassetsd445ae1ccdf9b741^82c43a21cdf9b741^-506"/* com.apple.actool.compilation-results *//Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/LaunchImage-700-568h@2x.png/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/Assets.car/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@160"file://localhost/Users/Masato/Desktop/%E8%87%AA%E4%BD%9C%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%83%A9%E3%83%AA/Sample/AsyncLoading/AsyncLoading/Images.xcassets/0000000000000000^1238"CompileAssetCatalog Build/Products/Debug-iphonesimulator/AsyncLoading.app AsyncLoading/Images.xcassets    cd /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app /Users/Masato/De36"42BBD6F6-8052-46BB-9E05-9A4B897BD1F7-
+b3A18DE16-40DB-4374-9574-14773A531620
+
+CCompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AppDelegate.o /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402246939.775511
+e402246940.350123
+r1
+xCompileC
+xBuild/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AppDelegate.o
+x/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/AppDelegate.m
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/AppDelegate.m217"CompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AppDelegate.o AsyncLoading/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf2b2c61bcdf9b741^7ba4591ccdf9b741^---0#0#1#-19%DVTDocumentLocation2@157"file://localhost/Users/Masato/Desktop/%E8%87%AA%E4%BD%9C%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%83%A9%E3%83%AA/Sample/AsyncLoading/AsyncLoading/AppDelegate.m0000000000000000^3948"CompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AppDelegate.o AsyncLoading/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Masato/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-generated-files.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-own-target-headers.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-all-target-headers.hmap -iquote /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-project-headers.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/DerivedSources/i386 -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/DerivedSources -F/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator -include /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-cogivwkmotaomhcfammsqrwfzpzz/AsyncLoading-Prefix.pch -MMD -MT dependencies -MF /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AppDelegate.dia -c /Users/Masato/Desktop/自作ライブラリ/Sample/36"C195D337-1463-4114-925E-F5D9240DC403-
+b3A18DE16-40DB-4374-9574-14773A531620
+
+CCompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AsyncImageView.o /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/AsyncImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402246939.776767
+e402246939.958502
+r1
+xCompileC
+xBuild/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AsyncImageView.o
+x/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/AsyncImageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/AsyncImageView.m
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/AsyncImageView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/AsyncImageView.m234"CompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AsyncImageView.o AsyncLoading/controller/AsyncImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc2f7c61bcdf9b741^a660f51bcdf9b741^---0#0#1#-19%DVTDocumentLocation2@171"file://localhost/Users/Masato/Desktop/%E8%87%AA%E4%BD%9C%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%83%A9%E3%83%AA/Sample/AsyncLoading/AsyncLoading/controller/AsyncImageView.m0000000000000000^3988"CompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AsyncImageView.o AsyncLoading/controller/AsyncImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Masato/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-generated-files.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-own-target-headers.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-all-target-headers.hmap -iquote /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-project-headers.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/DerivedSources/i386 -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/DerivedSources -F/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator -include /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-cogivwkmotaomhcfammsqrwfzpzz/AsyncLoading-Prefix.pch -MMD -MT dependencies -MF /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AsyncImageView.d --serialize-diagnostics /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AsyncImageView.dia -c /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Asyn36"0F191567-2BD9-4431-BA4D-8214539284A9-
+b3A18DE16-40DB-4374-9574-14773A531620
+
+CCompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AsyncImageViewController.o /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/AsyncImageViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402246939.775531
+e402246939.957769
+r1
+xCompileC
+xBuild/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AsyncImageViewController.o
+x/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/AsyncImageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/AsyncImageViewController.m
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/AsyncImageViewController.h
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/AsyncImageView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/AsyncImageViewController.m254"CompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AsyncImageViewController.o AsyncLoading/controller/AsyncImageViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2db1c61bcdf9b741^b532f51bcdf9b741^---0#0#1#-19%DVTDocumentLocation2@181"file://localhost/Users/Masato/Desktop/%E8%87%AA%E4%BD%9C%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%83%A9%E3%83%AA/Sample/AsyncLoading/AsyncLoading/controller/AsyncImageViewController.m0000000000000000^4048"CompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AsyncImageViewController.o AsyncLoading/controller/AsyncImageViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Masato/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-generated-files.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-own-target-headers.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-all-target-headers.hmap -iquote /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-project-headers.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/DerivedSources/i386 -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/DerivedSources -F/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator -include /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-cogivwkmotaomhcfammsqrwfzpzz/AsyncLoading-Prefix.pch -MMD -MT dependencies -MF /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AsyncImageViewController.d --serialize-diagnostics /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AsyncImageViewController.dia -c /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/36"51DF4250-A584-442B-ADEB-69C554FEAA83-
+b3A18DE16-40DB-4374-9574-14773A531620
+
+CCompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/CacheAsyncTableController.o /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/CacheAsyncTableController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402246939.775499
+e402246940.524680
+r1
+xCompileC
+xBuild/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/CacheAsyncTableController.o
+x/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/CacheAsyncTableController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/CacheAsyncTableController.m
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/CacheAsyncTableController.h
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/library/Donwloader/Downloader.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/CacheAsyncTableController.m256"CompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/CacheAsyncTableController.o AsyncLoading/controller/CacheAsyncTableController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1cb1c61bcdf9b741^8f51861ccdf9b741^---0#0#1#-19%DVTDocumentLocation2@182"file://localhost/Users/Masato/Desktop/%E8%87%AA%E4%BD%9C%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%83%A9%E3%83%AA/Sample/AsyncLoading/AsyncLoading/controller/CacheAsyncTableController.m0000000000000000^4054"CompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/CacheAsyncTableController.o AsyncLoading/controller/CacheAsyncTableController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Masato/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-generated-files.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-own-target-headers.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-all-target-headers.hmap -iquote /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-project-headers.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/DerivedSources/i386 -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/DerivedSources -F/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator -include /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-cogivwkmotaomhcfammsqrwfzpzz/AsyncLoading-Prefix.pch -MMD -MT dependencies -MF /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/CacheAsyncTableController.d --serialize-diagnostics /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/CacheAsyncTableController.dia -c /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/Ca36"A8906F34-9353-4B20-8750-135FF1FD4FDB-
+b3A18DE16-40DB-4374-9574-14773A531620
+
+CCompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/Downloader.o /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/library/Donwloader/Downloader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402246939.775529
+e402246940.595496
+r1
+xCompileC
+xBuild/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/Downloader.o
+x/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/library/Donwloader/Downloader.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/library/Donwloader/Downloader.m
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/library/Donwloader/Downloader.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/library/Donwloader/Downloader.m234"CompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/Downloader.o AsyncLoading/library/Donwloader/Downloader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb7b4c61bcdf9b741^1573981ccdf9b741^---0#0#1#-19%DVTDocumentLocation2@175"file://localhost/Users/Masato/Desktop/%E8%87%AA%E4%BD%9C%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%83%A9%E3%83%AA/Sample/AsyncLoading/AsyncLoading/library/Donwloader/Downloader.m0000000000000000^3994"CompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/Downloader.o AsyncLoading/library/Donwloader/Downloader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Masato/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-generated-files.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-own-target-headers.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-all-target-headers.hmap -iquote /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-project-headers.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/DerivedSources/i386 -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/DerivedSources -F/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator -fno-objc-arc -include /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-eobunclthmsdqedwmfpsanlxkkyr/AsyncLoading-Prefix.pch -MMD -MT dependencies -MF /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/Downloader.d --serialize-diagnostics /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/Downloader.dia -c /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Asyn36"F5A92E8B-5C34-4B88-BC89-FEED21A2092C-
+b3A18DE16-40DB-4374-9574-14773A531620
+
+CCompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/RootTableViewController.o /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/RootTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402246939.776715
+e402246940.511770
+r1
+xCompileC
+xBuild/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/RootTableViewController.o
+x/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/RootTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/RootTableViewController.m
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/RootTableViewController.h
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/UncacheAsyncTableController.h
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/CacheAsyncTableController.h
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/AsyncImageViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compile /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/RootTableViewController.m252"CompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/RootTableViewController.o AsyncLoading/controller/RootTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8df0c61bcdf9b741^9f03831ccdf9b741^---0#0#1#-19%DVTDocumentLocation2@180"file://localhost/Users/Masato/Desktop/%E8%87%AA%E4%BD%9C%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%83%A9%E3%83%AA/Sample/AsyncLoading/AsyncLoading/controller/RootTableViewController.m0000000000000000^4042"CompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/RootTableViewController.o AsyncLoading/controller/RootTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Masato/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-generated-files.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-own-target-headers.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-all-target-headers.hmap -iquote /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-project-headers.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/DerivedSources/i386 -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/DerivedSources -F/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator -include /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-cogivwkmotaomhcfammsqrwfzpzz/AsyncLoading-Prefix.pch -MMD -MT dependencies -MF /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/RootTableViewController.d --serialize-diagnostics /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/RootTableViewController.dia -c /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controlle36"11DAE133-FCF5-4A85-A234-EB0EBA494E9B-
+b3A18DE16-40DB-4374-9574-14773A531620
+
+CCompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/RootViewController.o /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402238220.015078
+e402238220.071574
+r1
+xCompileC
+xBuild/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/RootViewController.o
+x/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/RootViewController.m
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/RootViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/RootViewController.m242"CompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/RootViewController.o AsyncLoading/controller/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbff3030cabf9b741^a051120cabf9b741^---0#0#1#-19%DVTDocumentLocation2@175"file://localhost/Users/Masato/Desktop/%E8%87%AA%E4%BD%9C%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%83%A9%E3%83%AA/Sample/AsyncLoading/AsyncLoading/controller/RootViewController.m0000000000000000^4012"CompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/RootViewController.o AsyncLoading/controller/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Masato/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-generated-files.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-own-target-headers.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-all-target-headers.hmap -iquote /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-project-headers.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/DerivedSources/i386 -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/DerivedSources -F/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator -include /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-cogivwkmotaomhcfammsqrwfzpzz/AsyncLoading-Prefix.pch -MMD -MT dependencies -MF /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/RootViewController.d --serialize-diagnostics /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/RootViewController.dia -c /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading36"88AB9FA7-40C3-4393-9BB9-90FC52262DE8-
+bDF2012F2-306A-4BF6-8FDC-86113D803901
+
+CCompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/UIAsyncImageView.o /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/library/UIAsyncImageView/UIAsyncImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/UncacheAsyncTableController.o /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/UncacheAsyncTableController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402246939.776720
+e402246940.524005
+r1
+xCompileC
+xBuild/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/UncacheAsyncTableController.o
+x/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/UncacheAsyncTableController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/UncacheAsyncTableController.m
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/UncacheAsyncTableController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Compile /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/UncacheAsyncTableController.m260"CompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/UncacheAsyncTableController.o AsyncLoading/controller/UncacheAsyncTableController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2cefc61bcdf9b741^7425861ccdf9b741^---0#0#1#-19%DVTDocumentLocation2@184"file://localhost/Users/Masato/Desktop/%E8%87%AA%E4%BD%9C%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%83%A9%E3%83%AA/Sample/AsyncLoading/AsyncLoading/controller/UncacheAsyncTableController.m0000000000000000^4066"CompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/UncacheAsyncTableController.o AsyncLoading/controller/UncacheAsyncTableController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Masato/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-generated-files.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-own-target-headers.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-all-target-headers.hmap -iquote /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-project-headers.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/DerivedSources/i386 -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/DerivedSources -F/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator -include /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-cogivwkmotaomhcfammsqrwfzpzz/AsyncLoading-Prefix.pch -MMD -MT dependencies -MF /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/UncacheAsyncTableController.d --serialize-diagnostics /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/UncacheAsyncTableController.dia -c /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/controller/Uncach36"31A1792B-C7A0-4391-B9D9-CD9F46FFD3AF-
+b3A18DE16-40DB-4374-9574-14773A531620
+
+CCompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/main.o /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402246939.775510
+e402246940.268882
+r1
+xCompileC
+xBuild/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/main.o
+x/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/main.m
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/main.m203"CompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/main.o AsyncLoading/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4fb1c61bcdf9b741^9d11451ccdf9b741^---0#0#1#-19%DVTDocumentLocation2@150"file://localhost/Users/Masato/Desktop/%E8%87%AA%E4%BD%9C%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%83%A9%E3%83%AA/Sample/AsyncLoading/AsyncLoading/main.m0000000000000000^3906"CompileC Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/main.o AsyncLoading/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Masato/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-generated-files.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-own-target-headers.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-all-target-headers.hmap -iquote /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-project-headers.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/DerivedSources/i386 -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/DerivedSources -F/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator -include /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-cogivwkmotaomhcfammsqrwfzpzz/AsyncLoading-Prefix.pch -MMD -MT dependencies -MF /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/main.dia -c /Users/Masato/Desktop/自作ライブ36"B8F7BEA9-9DD9-4836-8AF6-296371B9AF70-
+b3A18DE16-40DB-4374-9574-14773A531620
+
+CCompileStoryboard /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/Base.lproj/Main.storyboard
+s402246940.680513
+e402246945.606834
+r1
+xCompileStoryboard
+x/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"CompileStoryboard AsyncLoading/Base.lproj/Main.storyboard57"CompileStoryboard AsyncLoading/Base.lproj/Main.storyboardb345ae1ccdf9b741^325a9b21cdf9b741^---0#0#1#-19%DVTDocumentLocation2@170"file://localhost/Users/Masato/Desktop/%E8%87%AA%E4%BD%9C%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%83%A9%E3%83%AA/Sample/AsyncLoading/AsyncLoading/Base.lproj/Main.storyboard0000000000000000^938"CompileStoryboard AsyncLoading/Base.lproj/Main.storyboard    cd /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/Base.lproj/Main.storyboardc /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/Base.lproj/Main.storyboard36"9F7D26AA-5973-4207-9CB0-21DB578CD464-
+b3A18DE16-40DB-4374-9574-14773A531620
+
+CCopyStringsFile /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/en.lproj/InfoPlist.strings AsyncLoading/en.lproj/InfoPlist.strings
+s402246940.680517
+e402246940.763902
+r1
+xCopyStringsFile
+x/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/en.lproj/InfoPlist.strings
+xAsyncLoading/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy AsyncLoading/en.lproj/InfoPlist.strings136"CopyStringsFile Build/Products/Debug-iphonesimulator/AsyncLoading.app/en.lproj/InfoPlist.strings AsyncLoading/en.lproj/InfoPlist.strings3fa8b31ccdf9b741^b491c31ccdf9b741^---0#0#1#-19%DVTDocumentLocation2@170"file://localhost/Users/Masato/Desktop/%E8%87%AA%E4%BD%9C%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%83%A9%E3%83%AA/Sample/AsyncLoading/AsyncLoading/en.lproj/InfoPlist.strings0000000000000000^669"CopyStringsFile Build/Products/Debug-iphonesimulator/AsyncLoading.app/en.lproj/InfoPlist.strings AsyncLoading/en.lproj/InfoPlist.strings    cd /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/en.lproj -- AsyncLoading/en.lproj/InfoPlist.strings36"3A77FF74-67A3-4C86-B8FF-91CE84A90877-
+b3A18DE16-40DB-4374-9574-14773A531620
+
+CGenerateDSYMFile /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app.dSYM /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/AsyncLoading
+s402246940.652876
+e402246940.672361
+r1
+xGenerateDSYMFile
+x/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app.dSYM
+x/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/AsyncLoading
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Generate /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app.dSYM142"GenerateDSYMFile Build/Products/Debug-iphonesimulator/AsyncLoading.app.dSYM Build/Products/Debug-iphonesimulator/AsyncLoading.app/AsyncLoading3c31a71ccdf9b741^1422ac1ccdf9b741^---0#0#1#-19%DVTDocumentLocation2@189"file://localhost/Users/Masato/Desktop/%E8%87%AA%E4%BD%9C%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%83%A9%E3%83%AA/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app.dSYM00389c91deffdf42^775"GenerateDSYMFile Build/Products/Debug-iphonesimulator/AsyncLoading.app.dSYM Build/Products/Debug-iphonesimulator/AsyncLoading.app/AsyncLoading    cd /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/AsyncLoading -o /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app.dSYM36"2615EB75-F5F8-421A-91E9-E3F2CAB1441B-
+b3A18DE16-40DB-4374-9574-14773A531620
+
+CLd /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/AsyncLoading normal i386
+s402246940.606904
+e402246940.635436
+r1
+xLd
+x/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/AsyncLoading
+xnormal
+xi386
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AsyncLoading.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AsyncImageViewController.o
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/CacheAsyncTableController.o
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AppDelegate.o
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/Downloader.o
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/main.o
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/RootTableViewController.o
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/UncacheAsyncTableController.o
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AsyncImageView.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Link /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/AsyncLoading81"Ld Build/Products/Debug-iphonesimulator/AsyncLoading.app/AsyncLoading normal i386e7729b1ccdf9b741^5caea21ccdf9b741^---0#0#1#--1510"Ld Build/Products/Debug-iphonesimulator/AsyncLoading.app/AsyncLoading normal i386    cd /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator -F/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator -filelist /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AsyncLoading.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/Objects-normal/i386/AsyncLoading_dependency_info.dat -o /Users/Masato/Desktop/自作ライフ36"C44632EF-0305-418C-8AB5-F83A19BB3EBA-
+b3A18DE16-40DB-4374-9574-14773A531620
+
+CProcessInfoPlistFile /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/Info.plist /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/AsyncLoading-Info.plist
+s402246945.615539
+e402246945.649481
+r1
+xProcessInfoPlistFile
+x/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/Info.plist
+x/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/AsyncLoading-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Process /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/AsyncLoading-Info.plist122"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/AsyncLoading.app/Info.plist AsyncLoading/AsyncLoading-Info.plist65a59d21cdf9b741^a0fda821cdf9b741^---0#0#1#-19%DVTDocumentLocation2@167"file://localhost/Users/Masato/Desktop/%E8%87%AA%E4%BD%9C%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%83%A9%E3%83%AA/Sample/AsyncLoading/AsyncLoading/AsyncLoading-Info.plist0000000000000000^1025"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/AsyncLoading.app/Info.plist AsyncLoading/AsyncLoading-Info.plist    cd /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/AsyncLoading-Info.plist -genpkginfo /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/assetcatalog_generated_info.plist -o /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-ip36"DEB7F275-FEBF-4488-8B20-5A735983F02F-
+b3A18DE16-40DB-4374-9574-14773A531620
+
+CProcessPCH /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-cogivwkmotaomhcfammsqrwfzpzz/AsyncLoading-Prefix.pch.pch AsyncLoading/AsyncLoading-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402246938.459197
+e402246939.097394
+r1
+xProcessPCH
+x/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-cogivwkmotaomhcfammsqrwfzpzz/AsyncLoading-Prefix.pch.pch
+xAsyncLoading/AsyncLoading-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/AsyncLoading-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile AsyncLoading/AsyncLoading-Prefix.pch231"ProcessPCH Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-cogivwkmotaomhcfammsqrwfzpzz/AsyncLoading-Prefix.pch.pch AsyncLoading/AsyncLoading-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler12a5751acdf9b741^13ef181bcdf9b741^---0#0#1#-19%DVTDocumentLocation2@167"file://localhost/Users/Masato/Desktop/%E8%87%AA%E4%BD%9C%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%83%A9%E3%83%AA/Sample/AsyncLoading/AsyncLoading/AsyncLoading-Prefix.pch0000000000000000^3809"ProcessPCH Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-cogivwkmotaomhcfammsqrwfzpzz/AsyncLoading-Prefix.pch.pch AsyncLoading/AsyncLoading-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Masato/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-generated-files.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-own-target-headers.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-all-target-headers.hmap -iquote /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-project-headers.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/DerivedSources/i386 -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/DerivedSources -F/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-cogivwkmotaomhcfammsqrwfzpzz/AsyncLoading-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-cogivwkmotaomhcfammsqrwfzpzz/AsyncLoading-Prefix.pch.d -c /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/As36"667BCAD2-ED03-40D9-8E85-090DD3BFF891-
+b3A18DE16-40DB-4374-9574-14773A531620
+
+CProcessPCH /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-eobunclthmsdqedwmfpsanlxkkyr/AsyncLoading-Prefix.pch.pch AsyncLoading/AsyncLoading-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402246938.460434
+e402246939.766892
+r1
+xProcessPCH
+x/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-eobunclthmsdqedwmfpsanlxkkyr/AsyncLoading-Prefix.pch.pch
+xAsyncLoading/AsyncLoading-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/AsyncLoading-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile AsyncLoading/AsyncLoading-Prefix.pch231"ProcessPCH Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-eobunclthmsdqedwmfpsanlxkkyr/AsyncLoading-Prefix.pch.pch AsyncLoading/AsyncLoading-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfef2751acdf9b741^1d56c41bcdf9b741^---0#0#1#-19%DVTDocumentLocation2@167"file://localhost/Users/Masato/Desktop/%E8%87%AA%E4%BD%9C%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%83%A9%E3%83%AA/Sample/AsyncLoading/AsyncLoading/AsyncLoading-Prefix.pch0000000000000000^3823"ProcessPCH Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-eobunclthmsdqedwmfpsanlxkkyr/AsyncLoading-Prefix.pch.pch AsyncLoading/AsyncLoading-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Masato/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-generated-files.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-own-target-headers.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-all-target-headers.hmap -iquote /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/AsyncLoading-project-headers.hmap -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/DerivedSources/i386 -I/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/AsyncLoading.build/Debug-iphonesimulator/AsyncLoading.build/DerivedSources -F/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator -fno-objc-arc --serialize-diagnostics /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-eobunclthmsdqedwmfpsanlxkkyr/AsyncLoading-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Intermediates/PrecompiledHeaders/AsyncLoading-Prefix-eobunclthmsdqedwmfpsanlxkkyr/AsyncLoading-Prefix.pch.d -c /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/AsyncLoading/As36"CF12F9CF-C728-404F-A43E-C2820EBB1FDE-
+b3A18DE16-40DB-4374-9574-14773A531620
+
+CProcessPCH /Users/Masato/Library/Developer/Xcode/DerivedData/AsyncLoading-famgtseazysmqsglerfkdqejcejv/Index/PrecompiledHeaders/AsyncLoading-Prefix-ajvzfwchiykgcmdheiwyfacebcuy_ast/AsyncLoading-Prefix.pch.pch AsyncLoading/AsyncLoading-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/Masato/Library/Developer/Xcode/DerivedData/AsyncLoading-famgtseazysmqsglerfkdqejcejv/Index/PrecompiledHeaders/AsyncLoading-Prefix-fqfgjqtcbobdrcbytleripaolyda_ast/AsyncLoading-Prefix.pch.pch AsyncLoading/AsyncLoading-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app
+s402243296.432193
+e402243296.486304
+r1
+xTouch
+x/Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Touch /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app59"Touch Build/Products/Debug-iphonesimulator/AsyncLoading.app3ab26ee0bef9b741^cc7f7ce0bef9b741^---0#0#1#--472"Touch Build/Products/Debug-iphonesimulator/AsyncLoading.app    cd /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Masato/Desktop/自作ライブラリ/Sample/AsyncLoading/Build/Products/Debug-iphonesimulator/AsyncLoading.app36"65D450F5-C4C7-47E8-89AA-4C7F672886F7-
+b2798E2AB-EF0D-48B4-938B-FB005680D37B
+

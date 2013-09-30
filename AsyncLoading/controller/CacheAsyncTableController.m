@@ -61,12 +61,13 @@
         cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:CellIdentifier];
     }
     
-    // 画像があれば、読み込む
     if ([_imageCache objectForKey:indexPath]) {
+        // すでにキャッシュしてある場合
         cell.imageView.image = [_imageCache objectForKey:indexPath];
     } else {
         if (self.tableView.dragging == NO && self.tableView.decelerating == NO)
         {
+            // キャッシュがない場合、読み込む
             [self startIconDownload:indexPath];
         }
     }
